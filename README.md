@@ -20,4 +20,4 @@ The Travel Agency has the following variables:
 - Adresse (object consisting of multiple strings)
 - Kunde(ArrayList)
 
-If run the program will show all the data of the Travel Agency and the assigned fictional customers.
+If the program is run ut will show all the data of the Travel Agency and the assigned fictional customers.
